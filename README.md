@@ -50,8 +50,6 @@ Live Link: [ToDo List]()
 ![Demo]()
 
 
-![Demo]()
-
 ## Technologies Used
 
 - HTML
