@@ -44,7 +44,7 @@ This is a basic To-Do List website built using HTML, CSS, and JavaScript. It all
 
 ## Demo
 
-Live Link: [ToDo List]()
+Live Link: [ToDo List](https://amrit-sharma-7.github.io/ToDo-List-Project/todo-list.html)
 
 
 ![Demo](demo.gif)
