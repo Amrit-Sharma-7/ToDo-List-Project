@@ -1,8 +1,8 @@
 # To-Do List Website
----
+
 ## Overview
 
-This is a basic To-Do List website built using HTML, CSS, and JavaScript. It allows users to add, and remove tasks to manage their daily activities.
+This is a basic To-Do List website built using HTML, CSS, and JavaScript. It enables users to add and remove tasks to manage their daily activities.
 
 ## Features
 
@@ -29,10 +29,10 @@ This is a basic To-Do List website built using HTML, CSS, and JavaScript. It all
 
 1. **Add a Task:**
    - Type the task in the input field.
-   - Select a date from the date selector(Optional).
+   - Optionally, select a date from the date selector.
    - Press the "Add" button.
 
-3. **Remove a Task:**
+2. **Remove a Task:**
    - Hover over the task you want to remove.
    - Click the "Delete" button.
 
@@ -46,9 +46,7 @@ This is a basic To-Do List website built using HTML, CSS, and JavaScript. It all
 
 Live Link: [ToDo List](https://amrit-sharma-7.github.io/ToDo-List-Project/todo-list.html)
 
-
 ![Demo](demo.gif)
-
 
 ## Technologies Used
 
@@ -64,3 +62,5 @@ If you'd like to contribute to the project, please follow these steps:
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request.
+
+Thank you for viewing my project!
