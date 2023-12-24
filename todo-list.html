@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Todo List</title>
+  <link rel="stylesheet" href="styles/todo-list.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="main-heading-section">
+    <img src="icons/todo-icon.svg" alt="todo-icon" class="todo-icon-heading">
+    <p class="main-heading">
+      My Todo List
+    </p>
+  </div>
+
+  <div class="todo-input-grid">
+    <input type="text" placeholder="What's on your mind!" class="js-input-name input-name">
+
+    <input type="date" class="js-input-date input-date">
+
+    <button class="add-button js-add-button">
+      Add
+    </button>
+  </div>
+  <div class="js-list todo-grid"></div>
+
+  <script src="scripts/todo-list.js"></script>
+</body>
+
+</html>
